@@ -8,16 +8,10 @@
 
 ### Transfer Learning Samples
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<audio controls>
+  <source src="images/20000-b0178.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 ---
 
