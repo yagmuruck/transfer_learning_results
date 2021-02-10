@@ -6,7 +6,11 @@
 
 <audio controls>
   <source src="images/speech-b0062.wav" type="audio/wav">
+ </audio>
+ <audio controls>
   <source src="images/speech-b0106.wav" type="audio/wav">
+   </audio>
+  <audio controls>
   <source src="images/speech-b0114.wav" type="audio/wav">
 </audio>
 
