@@ -20,19 +20,17 @@
 
 <audio controls>
   <source src="images/20000-b0178.wav" type="audio/wav">
+  </audio>
+  <audio controls>
   <source src="images/20000-b0194.wav" type="audio/wav">
+  </audio>
+  <audio controls>
   <source src="images/20000-b0202.wav" type="audio/wav">
 </audio>
 
 ---
 
 ### Perturbed Speech Samples
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
