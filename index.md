@@ -10,7 +10,6 @@
 
 <audio controls>
   <source src="images/20000-b0178.wav" type="audio/wav">
-Your browser does not support the audio element.
 </audio>
 
 ---
