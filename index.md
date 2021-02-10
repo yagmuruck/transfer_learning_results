@@ -4,6 +4,17 @@
 
 ### Ground Truth Speech Samples
 
+<audio controls>
+  <source src="images/os-b0062.wav" type="audio/wav">
+ </audio>
+ <audio controls>
+  <source src="images/os-b0106.wav" type="audio/wav">
+   </audio>
+  <audio controls>
+  <source src="images/os-b0114.wav" type="audio/wav">
+</audio>
+
+
 
 ---
 
