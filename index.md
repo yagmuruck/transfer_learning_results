@@ -33,6 +33,36 @@
 
 ---
 
+
+### Ground Truth Singing Samples
+
+<audio controls>
+  <source src="images/om_a0005.wav" type="audio/wav">
+ </audio>
+ <audio controls>
+  <source src="images/om_a0080.wav" type="audio/wav">
+   </audio>
+  <audio controls>
+  <source src="images/om_a0443.wav" type="audio/wav">
+</audio>
+
+---
+
+### Transfer Learning Singing Samples
+
+<audio controls>
+  <source src="images/mel-a0005.wav" type="audio/wav">
+ </audio>
+ <audio controls>
+  <source src="images/mel-a0080.wav" type="audio/wav">
+   </audio>
+  <audio controls>
+  <source src="images/mel-a0443.wav" type="audio/wav">
+</audio>
+
+
+---
+
 ### Perturbed Speech Samples
 
 ---
