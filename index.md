@@ -64,6 +64,35 @@
 ---
 
 ### Perturbed Speech Samples
+### From Ground Truth to Gradually Perturbed Samples
+### 1
+
+<audio controls>
+  <source src="images/lala-speech+0.wav" type="audio/wav">
+ </audio>
+ <audio controls>
+  <source src="images/lala-speech+11.wav" type="audio/wav">
+   </audio>
+  <audio controls>
+  <source src="images/lala-speech+12.wav" type="audio/wav">
+</audio>
+  <audio controls>
+  <source src="images/lala-speech+13.wav" type="audio/wav">
+</audio>
+
+
+### 2
+
+<audio controls>
+  <source src="images/singing +8.wav" type="audio/wav">
+ </audio>
+ <audio controls>
+  <source src="images/singing-14.wav" type="audio/wav">
+   </audio>
+  <audio controls>
+  <source src="images/singing-16.wav" type="audio/wav">
+</audio>
+
 
 ---
 
