@@ -2,6 +2,10 @@
 
 ---
 
+### Ground Truth Samples
+
+---
+
 ### Transfer Learning Samples
 
 [Project 1 Title](/sample_page)
