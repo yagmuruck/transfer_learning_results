@@ -4,6 +4,11 @@
 
 ### Ground Truth Speech Samples
 
+
+---
+
+### Transfer Learning Speech Samples
+
 <audio controls>
   <source src="images/speech-b0062.wav" type="audio/wav">
  </audio>
@@ -14,19 +19,6 @@
   <source src="images/speech-b0114.wav" type="audio/wav">
 </audio>
 
----
-
-### Transfer Learning Speech Samples
-
-<audio controls>
-  <source src="images/20000-b0178.wav" type="audio/wav">
-  </audio>
-  <audio controls>
-  <source src="images/20000-b0194.wav" type="audio/wav">
-  </audio>
-  <audio controls>
-  <source src="images/20000-b0202.wav" type="audio/wav">
-</audio>
 
 ---
 
