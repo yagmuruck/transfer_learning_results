@@ -10,6 +10,8 @@
 
 <audio controls>
   <source src="images/20000-b0178.wav" type="audio/wav">
+  <source src="images/20000-b0194.wav" type="audio/wav">
+  <source src="images/20000-b0202.wav" type="audio/wav">
 </audio>
 
 ---
