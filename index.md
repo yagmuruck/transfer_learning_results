@@ -37,7 +37,7 @@
 ### Ground Truth Singing Samples
 
 <audio controls>
-  <source src="images/om_a0005.wav" type="audio/wav">
+  <source src="images/om_a0175.wav" type="audio/wav">
  </audio>
  <audio controls>
   <source src="images/om_a0080.wav" type="audio/wav">
@@ -51,7 +51,7 @@
 ### Transfer Learning Singing Samples
 
 <audio controls>
-  <source src="images/mel-a0005.wav" type="audio/wav">
+  <source src="images/mel-a0175.wav" type="audio/wav">
  </audio>
  <audio controls>
   <source src="images/mel-a0080.wav" type="audio/wav">
