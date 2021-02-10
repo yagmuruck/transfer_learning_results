@@ -2,11 +2,17 @@
 
 ---
 
-### Ground Truth Samples
+### Ground Truth Speech Samples
+
+<audio controls>
+  <source src="images/speech-b0062.wav" type="audio/wav">
+  <source src="images/speech-b0106.wav" type="audio/wav">
+  <source src="images/speech-b0114.wav" type="audio/wav">
+</audio>
 
 ---
 
-### Transfer Learning Samples
+### Transfer Learning Speech Samples
 
 <audio controls>
   <source src="images/20000-b0178.wav" type="audio/wav">
