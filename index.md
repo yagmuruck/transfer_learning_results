@@ -64,8 +64,8 @@
 ---
 
 ### Perturbed Speech Samples
-### From Ground Truth to Gradually Perturbed Samples
-### 1 "la la la la la la."
+#### From Ground Truth to Gradually Perturbed Samples
+##### 1 "la la la la la la."
 
 <audio controls>
   <source src="images/lala-speech+0.wav" type="audio/wav">
@@ -81,7 +81,7 @@
 </audio>
 
 
-### 2 "I really like singing."
+##### 2 "I really like singing."
 
 <audio controls>
   <source src="images/singing +8.wav" type="audio/wav">
