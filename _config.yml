@@ -1,5 +1,5 @@
 title: Yagmur Uckunkaya # your name (or website title) here
 logo: "/images/Screenshot 2021-02-04 at 14.39.37.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Presentation of the transfer learning results of the TTS system Tacotron-2. 
+  Presenting the results of speech and singing synthesis through transfer learning using Tacotron-2.  
 theme: jekyll-theme-minimal
